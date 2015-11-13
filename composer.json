@@ -1,0 +1,17 @@
+{
+  "name": "sturple/phile-collections",
+  "type": "phile-plugin",
+  "version": "1.0.0",
+  "license": "MIT",
+  "description": "Adding Collections and Twig Simple Filter Creation Support For Phile CMS",
+  "homepage": "http://github.com/sturple/phileCollections",
+  "keywords": ["cms","phile","content","collections","twig","filter"],
+  "authors": [
+      {
+      "name": "Shawn Turple",
+      "email": "shawn@turple.ca",
+      "homepage": "http://github.com/sturple/",
+      "role": "Developer"
+      }
+  ]
+}
